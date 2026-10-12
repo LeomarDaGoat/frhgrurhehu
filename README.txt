@@ -1,0 +1,1 @@
+Replace your current bot.py with this bot.py and replace deobf_bot_extension.py with the included version. Keep the deobfuscators/, config.py, deobfuscator.py, lune.exe, l2.lua, run_l3.lua and Radium files you already copied.
